@@ -4,7 +4,11 @@ public class StackOverflowErrorDemo01 {
     private static final String NUMBER="7";
 
     /**
+<<<<<<< Updated upstream
      * 栈溢出错误 哈哈
+=======
+     * 栈溢出错误哈哈
+>>>>>>> Stashed changes
      * Exception in thread "main" java.lang.StackOverflowError
      */
     public static void test1(){
